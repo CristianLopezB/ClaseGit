@@ -1,1 +1,0 @@
-print("Este archivo fue creado desde vsCode")
